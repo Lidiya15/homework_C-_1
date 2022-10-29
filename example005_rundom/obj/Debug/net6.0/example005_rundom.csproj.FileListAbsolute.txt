@@ -1,0 +1,15 @@
+C:\Users\лида\Desktop\Examples\example005_rundom\bin\Debug\net6.0\example005_rundom.exe
+C:\Users\лида\Desktop\Examples\example005_rundom\bin\Debug\net6.0\example005_rundom.deps.json
+C:\Users\лида\Desktop\Examples\example005_rundom\bin\Debug\net6.0\example005_rundom.runtimeconfig.json
+C:\Users\лида\Desktop\Examples\example005_rundom\bin\Debug\net6.0\example005_rundom.dll
+C:\Users\лида\Desktop\Examples\example005_rundom\bin\Debug\net6.0\example005_rundom.pdb
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.csproj.AssemblyReference.cache
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.AssemblyInfoInputs.cache
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.AssemblyInfo.cs
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.csproj.CoreCompileInputs.cache
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.dll
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\refint\example005_rundom.dll
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.pdb
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\example005_rundom.genruntimeconfig.cache
+C:\Users\лида\Desktop\Examples\example005_rundom\obj\Debug\net6.0\ref\example005_rundom.dll
